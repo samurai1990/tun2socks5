@@ -1,0 +1,1 @@
+## script tun2socks
